@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Коротков Илья Владимирович
-=======
+
 Golubkov Nikita Andreevich
->>>>>>> origin/feature/listNikilireous
-=======
+
 Иванов Денис Антонович
->>>>>>> origin/feature/listnisya1
+
